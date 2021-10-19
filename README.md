@@ -1,3 +1,88 @@
+Helios.readme.md
+[block:api-header]
+{
+  "title": "Helios"
+}
+[/block]
+Helios is the price-tracking website for crypto assets in the rapidly growing cryptocurrency space. It provides high quality and accurate information for drawing their own informed conclusions.
+[block:image]
+{
+  "images": [
+    {
+      "image": [
+        "https://files.readme.io/3bfe289-Helios-home.png",
+        "Helios-home.png",
+        1920,
+        926,
+        "#c2c7cd"
+      ],
+      "caption": "Home page of Helios app"
+    }
+  ]
+}
+[/block]
+
+[block:api-header]
+{
+  "title": "Requirements"
+}
+[/block]
+- React
+- Redux toolkit
+- Ant Design Library
+- CoinRanking API
+- Bing news search API
+- React-router
+- React-redux
+
+
+
+[block:api-header]
+{
+  "title": "Folder structure"
+}
+[/block]
+
+[block:image]
+{
+  "images": [
+    {
+      "image": [
+        "https://files.readme.io/b702af6-Screenshot_88.png",
+        "Screenshot (88).png",
+        360,
+        870,
+        "#292c2e"
+      ],
+      "caption": "Folder structure of Helios app"
+    }
+  ]
+}
+[/block]
+
+[block:api-header]
+{
+  "title": "MindMap of a Project"
+}
+[/block]
+
+[block:image]
+{
+  "images": [
+    {
+      "image": [
+        "https://files.readme.io/52fe61e-Screenshot_91.png",
+        "Screenshot (91).png",
+        1375,
+        630,
+        "#eaf3f7"
+      ]
+    }
+  ]
+}
+[/block]
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
